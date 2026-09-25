@@ -70,5 +70,5 @@ The top-3 classification approach was used because providing multiple candidate 
 Note: ChatGPT was used as a development aid for portions of the code, including code generation and debugging. All generated code was reviewed and adapted by the authors.
 
 ## Authors
-Lidor Lutati - lidor37@gmail.com - Github: LL37477
-Haim Bortman - bortman.haim@gmail.com - Github: hb9111
+Lidor Lutati - lidor37@gmail.com - [GitHub: LL37477](https://github.com/LL37477)
+Haim Bortman - bortman.haim@gmail.com - [GitHub: hb9111](https://github.com/hb9111)
